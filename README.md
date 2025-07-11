@@ -33,6 +33,7 @@ lang_df['LanguageHaveWorkedWith'] = lang_df['LanguageHaveWorkedWith'].str.strip(
 lang_df = lang_df.rename(columns={'LanguageHaveWorkedWith': 'language'})
 
 ```
+<img width="717" height="562" alt="image" src="https://github.com/user-attachments/assets/44f74fce-0c70-4a02-a5ba-ee2174c96a4b" />
 
 ---
 
@@ -50,7 +51,8 @@ ORDER BY count DESC;
 
 📊 결과 시각화:
 
-![image.png](https://chatgpt.com/g/g-p-686dcf0e552c8191aa6d3baa3a9cb2b1-hwaginyong/c/image%201.png)
+<img width="402" height="528" alt="image 1" src="https://github.com/user-attachments/assets/7e13f991-9e42-4ffe-97f2-cd5be7c70b54" />
+
 
 ---
 
@@ -66,7 +68,8 @@ ORDER BY count DESC;
 
 📊 결과 시각화:
 
-![image.png](https://chatgpt.com/g/g-p-686dcf0e552c8191aa6d3baa3a9cb2b1-hwaginyong/c/image%202.png)
+<img width="413" height="551" alt="image 2" src="https://github.com/user-attachments/assets/3f877b7b-c8a6-4339-b718-aac7d54c3cb9" />
+
 
 ---
 
@@ -81,8 +84,7 @@ ORDER BY count DESC;
 ```
 
 📊 결과 시각화:
-
-![image.png](https://chatgpt.com/g/g-p-686dcf0e552c8191aa6d3baa3a9cb2b1-hwaginyong/c/image%203.png)
+<img width="532" height="678" alt="image 3" src="https://github.com/user-attachments/assets/eabe9aeb-45d3-45be-bae6-c0f9bfe47c6f" />
 
 ---
 
