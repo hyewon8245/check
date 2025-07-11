@@ -84,6 +84,7 @@ ORDER BY count DESC;
 ```
 
 📊 결과 시각화:
+
 <img width="532" height="678" alt="image 3" src="https://github.com/user-attachments/assets/eabe9aeb-45d3-45be-bae6-c0f9bfe47c6f" />
 
 ---
